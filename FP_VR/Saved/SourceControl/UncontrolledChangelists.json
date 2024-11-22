@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Rutza/Desktop/Capstone/FP_VR/FP_VR/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Rutza/Desktop/Capstone/FP_VR/FP_VR/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Rutza/Desktop/Capstone/FP_VR/FP_VR/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/SZ/D1AHM62WL9TXSNPYQDXQMZ.uasset",
+				"C:/Users/Rutza/Desktop/Capstone/FP_VR/FP_VR/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/PT/ZXUQMNLL9GZ2UNQ5D0R4A4.uasset",
+				"C:/Users/Rutza/Desktop/Capstone/FP_VR/FP_VR/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/3M/4ATOKH0ZGPCVBS85MPKAXK.uasset",
+				"C:/Users/Rutza/Desktop/Capstone/FP_VR/FP_VR/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/YQ/KT6JL4FVCNJJ9VFOCSF32J.uasset",
+				"C:/Users/Rutza/Desktop/Capstone/FP_VR/FP_VR/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/P8/0GJ9TLQE2YKOIFZ6YHG33H.uasset",
+				"C:/Users/Rutza/Desktop/Capstone/FP_VR/FP_VR/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/2F/0SPQG8P507LI9VUAFG20OA.uasset",
+				"C:/Users/Rutza/Desktop/Capstone/FP_VR/FP_VR/Content/FirstPerson/Input/Actions/IA_Zoom.uasset"
+			]
+		}
+	]
+}
